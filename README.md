@@ -1,4 +1,7 @@
+
 # flask-cicd-k8s
+![CI/CD](https://github.com/VanishaParwal/flask-cicd-k8s/actions/workflows/deploy.yml/badge.svg)
+
  
 # BookShelfPro 📚
 
